@@ -1,0 +1,20 @@
+body {
+  background-color: #C9E4CA;
+}
+
+nav, footer {
+  background-color: #2F4F4F;
+}
+
+.btn {
+  background-color: #2F4F4F;
+  border: 0px;
+}
+
+.btn:hover {
+  background-color: #000000;
+}
+
+.error {
+  color: #FF0000;
+}
